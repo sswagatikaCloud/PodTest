@@ -1,0 +1,11 @@
+framework module CenteredScrollView {
+  umbrella header "CenteredScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CenteredScrollView.Swift {
+  header "CenteredScrollView-Swift.h"
+  requires objc
+}

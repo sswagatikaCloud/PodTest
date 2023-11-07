@@ -1,0 +1,20 @@
+PODS:
+  - CenteredScrollView (1.0.0)
+  - SwiftLint (0.53.0)
+
+DEPENDENCIES:
+  - CenteredScrollView (= 1.0.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - CenteredScrollView
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  CenteredScrollView: ea741ef504a98b544d9f383da6cf5ba166f022de
+  SwiftLint: 5ce4d6a8ff83f1b5fd5ad5dbf30965d35af65e44
+
+PODFILE CHECKSUM: 128c4f9c7c218c84e987ae7ed1c556ad71b5e16e
+
+COCOAPODS: 1.13.0
